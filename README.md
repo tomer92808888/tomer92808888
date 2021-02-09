@@ -1,5 +1,4 @@
 # Greetings, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Tomer and I'm a data scientist and a software developer. I'm from Israel.
 
 ![Profile views](https://gpvc.arturio.dev/tomer92808888)  
 <!--
