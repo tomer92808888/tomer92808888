@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgj0Wy2W1ULDTOa258WRcX05xhtRHVxryuQ&usqp=CAU)
 
 # Greetings, <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDgj0Wy2W1ULDTOa258WRcX05xhtRHVxryuQ&usqp=CAU" width="30px">
 
