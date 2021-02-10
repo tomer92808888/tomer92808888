@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about Computer Vision, Cyber Security, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Machine/Deep Learning soulations and projects.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at tomer92808@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at tomer92808@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
