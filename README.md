@@ -13,11 +13,13 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+<!--
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=tomer92808888&theme=rogue)
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=tomer92808888&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
+ -->
 
 ### 🔭 &nbsp;I’m currently working on:
 -
