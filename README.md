@@ -19,7 +19,8 @@
 	- [X] School exams
 	- [ ] Taking a break
 
-<img alt="Night Coding" src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" align="right"/>
+<img alt="Night Coding" src="
+https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
