@@ -2,7 +2,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Tomer -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### :shipit: &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science.\
