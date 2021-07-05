@@ -14,9 +14,10 @@
 ### 👨🏻‍💻 &nbsp;I’m currently working on:
 -
 	- [ ] A.I Professional Certification
-	- [ ] Deep learning Project
-	- [ ] Classification Project
-	- [x] Taking a break
+	- [ ] Computer Vision Project
+	- [ ] A.I competitions
+	- [X] School exams
+	- [ ] Taking a break
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
