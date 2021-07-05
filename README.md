@@ -12,6 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at tomer92808@gmail.com! I'll try to respond as soon as I can.
 
 ### 👨🏻‍💻 &nbsp;I’m currently working on:
+-
 	- [ ] A.I Professional Certification
 	- [ ] Deep learning Project
 	- [ ] Classification Project
