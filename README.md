@@ -25,8 +25,8 @@
 -
 	- [ ] A.I Professional Certification
 	- [ ] Computer Vision Project
-	- [ ] A.I competitions
-	- [X] School exams
+	- [X] A.I competitions
+	- [ ] School exams
 	- [ ] Taking a break
 
 
