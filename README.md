@@ -25,8 +25,8 @@
 -
 	- [ ] A.I Professional Certification
 	- [ ] Computer Vision Project
-	- [ ] A.I competitions
-	- [X] PyTorch
+	- [X] A.I competitions
+	- [ ] PyTorch
 	- [ ] School exams
 	- [ ] Taking a break
 
