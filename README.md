@@ -5,7 +5,7 @@
 ### :shipit: &nbsp;About Me
 
 📝 &nbsp;I like to explore new technologies and develop machine/deep learning solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science.\
+🎓 &nbsp;I'm currently studying Computer Vision.\
 🌱 &nbsp;I'm on track for learning more about Computer Vision, Cyber Security, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Machine/Deep Learning soulations and projects.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
