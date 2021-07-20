@@ -15,8 +15,8 @@
 
 ### 🏆 &nbsp;Titles:
 - Head of AI in Development Israel <img src="https://cdn.discordapp.com/attachments/865212724832370710/865280242553323580/IMG-20191115-WA0000.png" width="20" height="20">
-- Host of AI in Programmers Olympics Hackthon <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png" width="20" height="20">
-- Management Team in Artificialis
+- Host of AI in Programmers Olympics Hackthon
+- Management Team in Artificialis <img src="https://cdn.discordapp.com/emojis/787518671324839936.gif?v=1">
 
 <!--
 
