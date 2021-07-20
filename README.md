@@ -14,10 +14,9 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🏆 &nbsp;Titles:
--
-	- Head of AI in Development Israel <img src="https://cdn.discordapp.com/attachments/865212724832370710/865280242553323580/IMG-20191115-WA0000.png">
-	- Host of AI in Programmers Olympics Hackthon
-	- Management Team in Artificialis
+- Head of AI in Development Israel <img src="https://cdn.discordapp.com/attachments/865212724832370710/865280242553323580/IMG-20191115-WA0000.png">
+- Host of AI in Programmers Olympics Hackthon
+- Management Team in Artificialis
 
 <!--
 
