@@ -30,10 +30,10 @@
 -
 	- [ ] A.I Professional Certification
 	- [ ] Computer Vision Project
-	- [X] A.I competitions
+	- [ ] A.I competitions
 	- [ ] PyTorch
 	- [ ] School exams
-	- [ ] Taking a break
+	- [X] Taking a break
 
 
 ### 🛠 &nbsp;Tech Stack
