@@ -34,7 +34,7 @@
 	- [ ] PyTorch
 	- [ ] School exams
 	- [ ] Taking a break
-	- [X] HeartBit
+	- [X] HeartBit <img src="https://cdn.discordapp.com/emojis/787518671324839936.gif?v=1" width="20" height="20">
 	
 
 ### 🛠 &nbsp;Tech Stack
