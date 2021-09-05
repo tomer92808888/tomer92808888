@@ -34,7 +34,7 @@
 	- [ ] PyTorch
 	- [ ] School exams
 	- [ ] Taking a break
-	- [X] HeartBit <img src="https://cdn.discordapp.com/emojis/787518671324839936.gif?v=1" width="20" height="20">
+	- [X] HeartBit <img src="https://2019.igem.org/wiki/images/e/e9/T--SYSU-Medicine--drug1.gif" width="20" height="20">
 	
 
 ### 🛠 &nbsp;Tech Stack
