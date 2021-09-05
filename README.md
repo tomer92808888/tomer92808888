@@ -29,7 +29,7 @@
 ### 🔭 &nbsp;I’m currently working on:
 -
 	- [ ] A.I Professional Certification <img src="https://media4.giphy.com/media/mAJXcr1kTuVvExyj2q/giphy.gif?cid=6c09b95250216822bba9e86873e0eb76375a6ff97f851dec&rid=giphy.gif&ct=s" width="20" height="20">
-	- [ ] Computer Vision Project 
+	- [ ] Computer Vision Project <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/52692337524559.57437927cb84d.gif" width="20" height="20">
 	- [ ] A.I competitions
 	- [ ] PyTorch
 	- [ ] School exams
