@@ -33,7 +33,8 @@
 	- [ ] A.I competitions
 	- [ ] PyTorch
 	- [ ] School exams
-	- [X] Taking a break
+	- [_] Taking a break
+	- [X] HeartBit <img src ="https://2019.igem.org/wiki/images/e/e9/T--SYSU-Medicine--drug1.gif" width="20 height="20">
 
 
 ### 🛠 &nbsp;Tech Stack
