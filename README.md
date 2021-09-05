@@ -34,7 +34,7 @@
 	- [ ] PyTorch
 	- [ ] School exams
 	- [ ] Taking a break
-	- [X] HeartBit <img src="https://2019.igem.org/wiki/images/e/e9/T--SYSU-Medicine--drug1.gif" width="20" height="20">
+	- [X] HeartBit <img src="https://payload.cargocollective.com/1/2/78666/10808790/DNA-04_nobg.gif" width="20" height="20">
 	
 
 ### 🛠 &nbsp;Tech Stack
