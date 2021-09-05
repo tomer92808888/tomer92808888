@@ -33,7 +33,7 @@
 	- [ ] A.I competitions
 	- [ ] PyTorch
 	- [ ] School exams
-	- [_] Taking a break
+	- [ ] Taking a break
 	- [X] HeartBit
 	
 
