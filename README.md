@@ -31,8 +31,7 @@
 	- [ ] A.I Professional Certification <img src="https://media4.giphy.com/media/mAJXcr1kTuVvExyj2q/giphy.gif?cid=6c09b95250216822bba9e86873e0eb76375a6ff97f851dec&rid=giphy.gif&ct=s" width="20" height="20">
 	- [ ] Computer Vision Project <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/52692337524559.57437927cb84d.gif" width="20" height="20">
 	- [ ] A.I competitions <img src="https://piechallenge.org.il/wp-content/themes/piechallenge/images/victory_cup.gif" width="20" height="20">
-	- [ ] PyTorch <img src="https://user-images.githubusercontent.com/42931974/68615320-d6bf3380-04e8-11ea-84f8-dcef049f1ed3.gif" width="20" height="20">
-	- [ ] School exams
+	- [ ] School exams <img src="https://i.pinimg.com/originals/12/e3/fb/12e3fb42f1bbb70f41fb392a3f7b6686.gif" width="20" height="20">
 	- [ ] Taking a break
 	- [X] HeartBit <img src="https://payload.cargocollective.com/1/2/78666/10808790/DNA-04_nobg.gif" width="20" height="20">
 	
