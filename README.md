@@ -33,7 +33,7 @@
 	- [ ] A.I competitions <img src="https://piechallenge.org.il/wp-content/themes/piechallenge/images/victory_cup.gif" width="20" height="20">
 	- [ ] School exams <img src="https://i.pinimg.com/originals/12/e3/fb/12e3fb42f1bbb70f41fb392a3f7b6686.gif" width="20" height="20">
 	- [ ] Taking a break <img src="https://media1.giphy.com/media/l3vR1T6FNdObwP23S/source.gif" width="20" height="20">
-	- [X] Designer's Cut <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/cbd49383364993.5d39d09977c9f.gif" width="20" height="20">
+	- [X] LUNA <img src="https://media0.giphy.com/media/Ri7aVqoCZg6usGjHYm/200w.gif" width="20" height="20">
 	
 
 ### 🛠 &nbsp;Tech Stack
