@@ -33,8 +33,7 @@
 	- [ ] A.I competitions <img src="https://piechallenge.org.il/wp-content/themes/piechallenge/images/victory_cup.gif" width="20" height="20">
 	- [ ] School exams <img src="https://i.pinimg.com/originals/12/e3/fb/12e3fb42f1bbb70f41fb392a3f7b6686.gif" width="20" height="20">
 	- [ ] Taking a break <img src="https://media1.giphy.com/media/l3vR1T6FNdObwP23S/source.gif" width="20" height="20">
-	- [ ] LUNA <img src="https://media0.giphy.com/media/Ri7aVqoCZg6usGjHYm/200w.gif" width="20" height="20">
-	- [X] Reinforcement Learning <img src="https://media1.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif" width="40" height="40">
+	- [X] Reinforcement Learning <img src="https://thumbs.gfycat.com/UnripeAdoredGrayreefshark-max-1mb.gif" width="20" height="20">
 	
 	
 
