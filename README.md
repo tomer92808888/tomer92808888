@@ -31,9 +31,9 @@
 	- [ ] A.I Professional Certification <img src="https://media4.giphy.com/media/mAJXcr1kTuVvExyj2q/giphy.gif?cid=6c09b95250216822bba9e86873e0eb76375a6ff97f851dec&rid=giphy.gif&ct=s" width="20" height="20">
 	- [ ] Computer Vision Project <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/52692337524559.57437927cb84d.gif" width="20" height="20">
 	- [ ] A.I competitions <img src="https://piechallenge.org.il/wp-content/themes/piechallenge/images/victory_cup.gif" width="20" height="20">
-	- [ ] School exams <img src="https://i.pinimg.com/originals/12/e3/fb/12e3fb42f1bbb70f41fb392a3f7b6686.gif" width="20" height="20">
+	- [X] School exams <img src="https://i.pinimg.com/originals/12/e3/fb/12e3fb42f1bbb70f41fb392a3f7b6686.gif" width="20" height="20">
 	- [ ] Taking a break <img src="https://media1.giphy.com/media/l3vR1T6FNdObwP23S/source.gif" width="20" height="20">
-	- [X] Reinforcement Learning <img src="https://thumbs.gfycat.com/UnripeAdoredGrayreefshark-max-1mb.gif" width="20" height="20">
+	- [ ] Reinforcement Learning <img src="https://thumbs.gfycat.com/UnripeAdoredGrayreefshark-max-1mb.gif" width="20" height="20">
 	
 	
 
